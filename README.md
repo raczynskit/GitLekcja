@@ -1,2 +1,2 @@
 # GitLekcja
-My first
+My first GIT repository
